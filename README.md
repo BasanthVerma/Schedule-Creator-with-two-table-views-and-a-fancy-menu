@@ -1,5 +1,5 @@
 > * (Incomplete)*
-
+Might format or crash your system
 ##Schedule Creator with 2 table views and a fancy menu
 
 The Project has a View Controller called BVScheduleCreator, that houses 2 UITableViews. The First table is used to display the Time Slots and the second table is used to create custom schedules.
